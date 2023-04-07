@@ -1,0 +1,12 @@
+﻿  Banking System.cpp
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(75,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(200,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(224,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(250,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(270,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(300,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(323,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(346,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\Banking System\Banking System\Banking System.cpp(362,23): warning C4018: '<': signed/unsigned mismatch
+  Banking System.vcxproj -> D:\Projects\C++\Banking System\Debug\Banking System.exe
